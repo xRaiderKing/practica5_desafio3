@@ -6,7 +6,7 @@ function Home() {
 return <h1>Bienvenidos a la Página de Inicio</h1>;
 }
 function About() {
-return <h2>Acerca de Nosotros</h2>;
+return <h2>Acerca de Nosotros, Jesus Yael Padrón Grimaldo</h2>;
 }
 function App() {
 return (
