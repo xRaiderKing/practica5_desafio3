@@ -1,6 +1,7 @@
 {
   "name": "practica5-desafio2",
   "version": "0.1.0",
+  "homepage": "https://xraiderking.github.io/practica5_desafio3",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
