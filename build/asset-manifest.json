@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practica5_desafio3/static/css/main.f855e6bc.css",
+    "main.js": "/practica5_desafio3/static/js/main.a8dc0581.js",
+    "static/js/453.c9ae7306.chunk.js": "/practica5_desafio3/static/js/453.c9ae7306.chunk.js",
+    "index.html": "/practica5_desafio3/index.html",
+    "main.f855e6bc.css.map": "/practica5_desafio3/static/css/main.f855e6bc.css.map",
+    "main.a8dc0581.js.map": "/practica5_desafio3/static/js/main.a8dc0581.js.map",
+    "453.c9ae7306.chunk.js.map": "/practica5_desafio3/static/js/453.c9ae7306.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a8dc0581.js"
+  ]
+}
