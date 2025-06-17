@@ -14,7 +14,7 @@ return (
 </main>
 <footer style={{ padding: '10px', backgroundColor: '#f13710', color: '#fff',
 textAlign: 'center' }}>
-<p>Derechos Reservados© 2025 por Jesus Yael Padron Grimaldo </p>
+<p>Derechos Reservados© 2025 por Jesus Yael Padron Grimaldo - Junio</p>
 </footer>
 </div>
 );
